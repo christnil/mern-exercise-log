@@ -1,0 +1,11 @@
+{
+  "apps" : [{
+    // Application #2
+    "name"       : "web-app",
+    "script"     : "index.js",
+    "instances"  : 1,
+    "env" : {
+      "NODE_ENV": "production"
+    }
+  }]
+}
